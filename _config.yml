@@ -1,0 +1,14 @@
+layout_spectrum: 0.10724590346217155
+typography_spectrum: 0.5624002970289439
+color:
+  brandStrength: 0.978696703677997
+  lightness: 0.8177147426176816
+  saturation: 0.45879983133636415
+  rhythmicContrast: 0.1367487465031445
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: leebyrne.com
